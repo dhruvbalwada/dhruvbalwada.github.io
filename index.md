@@ -6,7 +6,7 @@ header:
   image: /assets/images/wave_mix_tyler_penner_unsplash.jpg
 ---
 
-**!!! For group website please visit https://ocean-transport.github.io/ !!!**. This personal webpage is not actively maintained any longer. 
+**!!! For group website please visit [https://ocean-transport.github.io/](https://ocean-transport.github.io/) !!!**. This personal webpage is not actively maintained any longer. 
 
 ### Academic Roadmap
 I am a Lamont Assistant Research Professor at the [Lamont-Doherty Earth Observatory](https://www.ldeo.columbia.edu/), Columbia University exploring the richness of oceanic turbulence, and using machine learning tools to parameterize this turbulence in climate models as part of the [M<sup>2</sup>LInES project](https://m2lines.github.io/). Prior to moving to Columbia University, I was a postdoc at the [Courant Institute of Mathematical Sciences][cims], [NYU][nyu] and the [School of Oceanography](https://www.ocean.washington.edu/), UW. I received a PhD at the [Geophysical Fluid Dynamics Institute, FSU][gfdi] in Tallahassee, Florida, and an undergraduate chemical engineering degree from the [Birla Institute of Technology and Science][bits] in [Goa](https://en.wikipedia.org/wiki/Goa), [India](https://en.wikipedia.org/wiki/India).
